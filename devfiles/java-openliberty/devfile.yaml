@@ -9,7 +9,7 @@ starterProjects:
   - name: user-app
     git:
       remotes:
-        origin: 'https://github.com/OpenLiberty/application-stack-starters.git'
+        origin: 'https://github.com/awisniew90/application-stack-starters.git'
 components:
   - name: devruntime
     container:
