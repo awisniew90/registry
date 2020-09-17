@@ -9,7 +9,7 @@ starterProjects:
   - name: user-app
     git:
       remotes:
-        origin: 'https://github.com/awisniew90/application-stack-starters/tree/gen-keystore'
+        origin: 'https://github.com/awisniew90/application-stack-starters.git'
 components:
   - name: devruntime
     container:
